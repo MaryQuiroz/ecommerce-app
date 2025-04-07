@@ -1,0 +1,32 @@
+[
+  {
+    "id": "skincare",
+    "name": "Skincare",
+    "description": "Productos para el cuidado de la piel",
+    "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "maquillaje",
+    "name": "Maquillaje",
+    "description": "Productos de maquillaje para realzar tu belleza",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "cabello",
+    "name": "Cabello",
+    "description": "Productos para el cuidado del cabello",
+    "image": "https://images.unsplash.com/photo-1597854506419-3436ecc5a185?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "fragancias",
+    "name": "Fragancias",
+    "description": "Perfumes y fragancias exclusivas",
+    "image": "https://images.unsplash.com/photo-1643935427304-6965a665f118?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "sets-regalo",
+    "name": "Sets de Regalo",
+    "description": "Conjuntos de productos ideales para regalar",
+    "image": "https://images.unsplash.com/photo-1608571423539-e951a50e3d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+  }
+] 

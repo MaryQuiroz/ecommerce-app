@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --color-primary: #f5a9c7;
+  --color-primary-dark: #e77fa6;
+  --color-secondary: #7ad6c7;
+  --color-secondary-dark: #5ec0b0;
+  --color-accent: #ffd700;
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-background: #ffffff;
+  --color-background-alt: #faf4f6;
+  
+  font-family: 'Poppins', 'Roboto', system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Clases personalizadas que podemos usar con Tailwind */
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+
+.bg-gradient-brand {
+  background-image: linear-gradient(to right, var(--color-primary), var(--color-secondary));
+}
+
+.text-gradient {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(45deg, var(--color-primary-dark), var(--color-secondary-dark));
+}
+
+.hover-scale {
+  transition: transform 0.3s ease-in-out;
+}
+.hover-scale:hover {
+  transform: scale(1.03);
+}
+
+/* Eliminando estilos que causan conflicto con Tailwind */

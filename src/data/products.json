@@ -1,0 +1,376 @@
+[
+  {
+    "id": "sk001",
+    "name": "Serum Facial Hidratante",
+    "category": "skincare",
+    "price": 54.99,
+    "discountPrice": 49.99,
+    "description": "Nuestro sérum hidratante de ácido hialurónico proporciona una hidratación profunda y duradera. Enriquecido con vitamina C para un brillo natural y una piel radiante.",
+    "longDescription": "Este sérum facial combina los beneficios del ácido hialurónico puro con la potencia antioxidante de la vitamina C para proporcionar hidratación intensiva y protección contra los radicales libres. Su fórmula ligera y no grasa penetra rápidamente en la piel, dejándola suave, radiante y con aspecto rejuvenecido. Ideal para todo tipo de piel, especialmente para pieles deshidratadas o con signos de envejecimiento. Utilizar mañana y noche sobre la piel limpia, antes de la crema hidratante.",
+    "rating": 4.8,
+    "reviewCount": 127,
+    "stock": 43,
+    "isNew": true,
+    "isBestSeller": true,
+    "tags": ["hidratante", "vitamina c", "antioxidante"],
+    "ingredients": "Aqua, Sodium Hyaluronate, Ascorbic Acid, Glycerin, Panthenol, Tocopherol, Aloe Barbadensis Leaf Juice, Citrus Aurantium Dulcis Peel Oil, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin",
+    "howToUse": "Aplicar 2-3 gotas sobre el rostro limpio y seco, por la mañana y por la noche. Masajear suavemente con movimientos ascendentes. Seguir con la crema hidratante habitual.",
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev1",
+        "user": "Laura M.",
+        "rating": 5,
+        "date": "2023-11-15",
+        "comment": "¡Increíble producto! Mi piel nunca había estado tan hidratada y luminosa. Definitivamente lo compraré de nuevo.",
+        "avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+      },
+      {
+        "id": "rev2",
+        "user": "Carolina H.",
+        "rating": 4,
+        "date": "2023-10-28",
+        "comment": "Me encanta la textura ligera y lo rápido que se absorbe. He notado mejoras en mi piel en sólo dos semanas.",
+        "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sk002",
+    "name": "Crema Hidratante de Día SPF30",
+    "category": "skincare",
+    "price": 45.99,
+    "discountPrice": null,
+    "description": "Crema hidratante diaria con protección SPF30. Formula ligera y no grasa que hidrata y protege tu piel contra los rayos UVA/UVB.",
+    "longDescription": "Esta crema hidratante diaria combina una hidratación profunda con una protección solar SPF30 de amplio espectro. Su fórmula ligera y no comedogénica está enriquecida con ácido hialurónico, antioxidantes y extractos botánicos que nutren la piel mientras la protegen de los daños causados por el sol y la contaminación ambiental. Perfecta para usar a diario, se absorbe rápidamente sin dejar residuos grasos y proporciona una base ideal para el maquillaje.",
+    "rating": 4.6,
+    "reviewCount": 94,
+    "stock": 55,
+    "isNew": false,
+    "isBestSeller": true,
+    "tags": ["hidratante", "protección solar", "día"],
+    "ingredients": "Aqua, Homosalate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Glycerin, Cetearyl Alcohol, Sodium Hyaluronate, Tocopherol, Panthenol, Aloe Barbadensis Leaf Juice, Calendula Officinalis Flower Extract, Chamomilla Recutita Flower Extract, Dimethicone, Carbomer, Phenoxyethanol, Parfum",
+    "howToUse": "Aplicar generosamente sobre el rostro y cuello limpios cada mañana. Usar después del sérum y antes del maquillaje. Volver a aplicar durante el día si se expone al sol por períodos prolongados.",
+    "images": [
+      "https://images.unsplash.com/photo-1556229167-7caf1acb87f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1556229167-7caf1acb87f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1556229167-7caf1acb87f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev3",
+        "user": "Marina L.",
+        "rating": 5,
+        "date": "2023-09-30",
+        "comment": "La mejor crema con SPF que he probado. No deja residuo blanco y funciona perfectamente bajo el maquillaje.",
+        "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+      },
+      {
+        "id": "rev4",
+        "user": "Andrea P.",
+        "rating": 4,
+        "date": "2023-10-12",
+        "comment": "Me encanta que combine hidratación y protección solar. Tiene un aroma muy agradable y se absorbe rápidamente.",
+        "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mk001",
+    "name": "Base de Maquillaje Luminosa",
+    "category": "maquillaje",
+    "price": 39.99,
+    "discountPrice": null,
+    "description": "Base de maquillaje de cobertura media con acabado luminoso que unifica el tono y aporta luminosidad. Enriquecida con ácido hialurónico e ingredientes hidratantes.",
+    "longDescription": "Nuestra base de maquillaje luminosa ofrece una cobertura media personalizable que unifica el tono y disimula imperfecciones mientras aporta un acabado radiante y natural. Su fórmula hidratante enriquecida con ácido hialurónico, aceites vegetales y extractos botánicos nutre la piel a lo largo del día. Disponible en 12 tonos para adaptarse a todos los tonos de piel, esta base de larga duración resiste hasta 12 horas sin transferencia ni oxidación. Ideal para pieles normales a secas que buscan un aspecto luminoso y saludable.",
+    "rating": 4.7,
+    "reviewCount": 118,
+    "stock": 38,
+    "isNew": false,
+    "isBestSeller": true,
+    "tags": ["base", "luminoso", "cobertura media"],
+    "shades": [
+      {
+        "id": "light-1",
+        "name": "Porcelana",
+        "hexColor": "#F5E8D6",
+        "forSkinTone": "Muy clara con subtono neutro"
+      },
+      {
+        "id": "light-2",
+        "name": "Vainilla",
+        "hexColor": "#EFE0C9",
+        "forSkinTone": "Clara con subtono neutro a cálido"
+      },
+      {
+        "id": "medium-1",
+        "name": "Beige",
+        "hexColor": "#D9B997",
+        "forSkinTone": "Media con subtono neutro"
+      },
+      {
+        "id": "medium-2",
+        "name": "Miel",
+        "hexColor": "#C19A6B",
+        "forSkinTone": "Media con subtono cálido"
+      },
+      {
+        "id": "dark-1",
+        "name": "Ámbar",
+        "hexColor": "#8F5A2C",
+        "forSkinTone": "Morena con subtono cálido"
+      }
+    ],
+    "howToUse": "Aplicar sobre la piel limpia e hidratada. Dispensar una pequeña cantidad en el dorso de la mano y aplicar con una brocha, esponja o los dedos desde el centro del rostro hacia fuera. Difuminar bien en la línea de la mandíbula para un acabado natural.",
+    "images": [
+      "https://images.unsplash.com/photo-1631214591073-4e9f6e611267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1631214591073-4e9f6e611267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1631214591073-4e9f6e611267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev5",
+        "user": "Lucía R.",
+        "rating": 5,
+        "date": "2023-11-02",
+        "comment": "¡La mejor base que he usado! Da un acabado precioso, como piel perfecta pero natural. No se marca en líneas finas y dura todo el día.",
+        "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+      },
+      {
+        "id": "rev6",
+        "user": "Sofía M.",
+        "rating": 4,
+        "date": "2023-10-18",
+        "comment": "Me encanta el acabado luminoso sin parecer brillante. La cobertura es buena y se puede construir en zonas que necesitan más corrección.",
+        "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mk002",
+    "name": "Paleta de Sombras Nude",
+    "category": "maquillaje",
+    "price": 48.99,
+    "discountPrice": 42.99,
+    "description": "Paleta de 12 sombras de ojos en tonos nude con acabados mate, satinado y metálico. Colores altamente pigmentados y fáciles de difuminar.",
+    "longDescription": "Esta lujosa paleta incluye 12 sombras de ojos cuidadosamente seleccionadas en una gama de tonos nude versatiles que van desde claros tonos champán hasta profundos marrones y bronces. Con una mezcla de acabados mate, satinado y metálico, permite crear tanto looks naturales de día como sofisticados looks de noche. Las sombras están altamente pigmentadas, son suaves al tacto y fáciles de difuminar, con una fórmula de larga duración que resiste más de 10 horas sin crease. Enriquecida con ingredientes hidratantes y antioxidantes para cuidar el delicado contorno de los ojos.",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "stock": 28,
+    "isNew": false,
+    "isBestSeller": true,
+    "tags": ["sombras", "paleta", "nude", "ojos"],
+    "howToUse": "Aplicar los tonos más claros como base en todo el párpado móvil. Usar los tonos medios en el pliegue del ojo para dar profundidad. Los tonos más oscuros pueden aplicarse en la línea de las pestañas o para intensificar la mirada. Los tonos metálicos lucen espectaculares en el centro del párpado o en el lagrimal para iluminar la mirada.",
+    "images": [
+      "https://images.unsplash.com/photo-1596704017254-9697f54aafa0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596704017254-9697f54aafa0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596704017254-9697f54aafa0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev7",
+        "user": "Patricia V.",
+        "rating": 5,
+        "date": "2023-11-10",
+        "comment": "¡Esta paleta es un sueño! Los colores son preciosos, muy pigmentados y se difuminan como mantequilla. No hay fallout y duran todo el día.",
+        "avatar": "https://randomuser.me/api/portraits/women/7.jpg"
+      },
+      {
+        "id": "rev8",
+        "user": "Elena G.",
+        "rating": 5,
+        "date": "2023-10-25",
+        "comment": "La combinación de colores es perfecta, puedes crear looks muy diferentes. La calidad es excelente, merece cada centavo.",
+        "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "hr001",
+    "name": "Champú Reparador con Aceite de Argán",
+    "category": "cabello",
+    "price": 28.99,
+    "discountPrice": null,
+    "description": "Champú reparador enriquecido con aceite de argán puro. Nutre, fortalece y repara el cabello dañado, dejándolo suave y brillante.",
+    "longDescription": "Nuestro champú reparador está especialmente formulado para cabellos secos, dañados o tratados químicamente. Rico en aceite de argán puro conocido como 'oro líquido', está cargado de antioxidantes, vitamina E y ácidos grasos esenciales que nutren y reparan profundamente la fibra capilar. Su fórmula suave limpia delicadamente sin eliminar los aceites naturales del cabello, ayudando a reparar la estructura del cabello, sellar las cutículas y reducir el frizz. Libre de sulfatos, parabenos y siliconas, este champú restaura la vitalidad, el brillo y la suavidad del cabello, dejándolo más fuerte y manejable desde la primera aplicación.",
+    "rating": 4.7,
+    "reviewCount": 87,
+    "stock": 62,
+    "isNew": false,
+    "isBestSeller": false,
+    "tags": ["champú", "reparador", "aceite de argán", "cabello dañado"],
+    "ingredients": "Aqua, Aloe Barbadensis Leaf Juice, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Glycerin, Argania Spinosa Kernel Oil, Panthenol, Hydrolyzed Keratin, Cocos Nucifera Oil, Butyrospermum Parkii Butter, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene, Linalool",
+    "howToUse": "Aplicar sobre el cabello mojado, masajear suavemente y aclarar completamente. Para resultados óptimos, usar seguido del acondicionador de la misma línea. Ideal para uso regular.",
+    "images": [
+      "https://images.unsplash.com/photo-1597854506419-3436ecc5a185?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1597854506419-3436ecc5a185?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1597854506419-3436ecc5a185?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev9",
+        "user": "Carmen B.",
+        "rating": 5,
+        "date": "2023-10-05",
+        "comment": "Tras años buscando un champú que realmente repare mi cabello decolorado, por fin lo encontré. La diferencia es notable desde la primera aplicación.",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      },
+      {
+        "id": "rev10",
+        "user": "Isabel M.",
+        "rating": 4,
+        "date": "2023-09-22",
+        "comment": "Me encanta cómo deja mi cabello, suave y brillante. El aroma es divino y dura varios días.",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      }
+    ]
+  },
+  {
+    "id": "fr001",
+    "name": "Eau de Parfum Floral Seductor",
+    "category": "fragancias",
+    "price": 85.99,
+    "discountPrice": 75.99,
+    "description": "Fragancia floral con notas de jazmín, rosa y vainilla. Una composición elegante y seductora que perdura en la piel.",
+    "longDescription": "Esta sofisticada eau de parfum es una celebración de la feminidad moderna: segura, sensual y delicada. Abre con notas chispeantes de mandarina y pera, que dan paso a un corazón floral intenso de jazmín, rosa de Damasco y flor de azahar. El fondo cálido de vainilla, ámbar y almizcle blanco crea una estela seductora y duradera que permanece sobre la piel durante horas. Presentada en un elegante frasco de cristal con detalles dorados, esta fragancia es ideal tanto para el día como para ocasiones especiales. Con excelente proyección y longevidad, representa la elección perfecta para la mujer que desea dejar una impresión memorable.",
+    "rating": 4.9,
+    "reviewCount": 156,
+    "stock": 24,
+    "isNew": true,
+    "isBestSeller": true,
+    "tags": ["perfume", "floral", "larga duración"],
+    "notes": {
+      "salida": ["Mandarina", "Pera", "Bergamota"],
+      "corazon": ["Jazmín", "Rosa de Damasco", "Flor de Azahar"],
+      "fondo": ["Vainilla", "Ámbar", "Almizcle Blanco", "Sándalo"]
+    },
+    "sizes": [
+      {
+        "id": "30ml",
+        "name": "30 ml",
+        "price": 85.99
+      },
+      {
+        "id": "50ml",
+        "name": "50 ml",
+        "price": 115.99
+      },
+      {
+        "id": "100ml",
+        "name": "100 ml",
+        "price": 155.99
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1592945403411-d6808467ebad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592945403411-d6808467ebad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592945403411-d6808467ebad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev11",
+        "user": "María J.",
+        "rating": 5,
+        "date": "2023-11-12",
+        "comment": "¡Este perfume es simplemente divino! Las notas florales son elegantes y femeninas sin ser abrumadoras. He recibido innumerables cumplidos cada vez que lo uso.",
+        "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+      },
+      {
+        "id": "rev12",
+        "user": "Ana R.",
+        "rating": 5,
+        "date": "2023-10-30",
+        "comment": "La longevidad es impresionante, puedo seguir oliendo las notas de base al día siguiente. El frasco es precioso y se ve muy elegante en mi tocador.",
+        "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "st001",
+    "name": "Set de Regalo Esenciales Spa",
+    "category": "sets-regalo",
+    "price": 65.99,
+    "discountPrice": 59.99,
+    "description": "Completo set de regalo con productos para una experiencia spa en casa: sales de baño, vela aromática, crema corporal y mascarilla facial.",
+    "longDescription": "Regala (o regálate) un momento de completa relajación con nuestro Set Esenciales Spa, diseñado para recrear la experiencia de un spa de lujo en la comodidad del hogar. Este elegante set incluye sales de baño de lavanda y eucalipto para un baño reparador, una vela aromática de ambientes con aceites esenciales de geranio y sándalo, una rica crema corporal nutriente con manteca de karité y aceite de coco, y una mascarilla facial iluminadora de arcilla rosa. Todos los productos están formulados con ingredientes naturales de la más alta calidad y libres de parabenos, sulfatos y siliconas. Presentado en una hermosa caja regalo lista para obsequiar, este set es el regalo perfecto para cualquier ocasión especial o simplemente para consentir a un ser querido (o a ti misma) con un merecido momento de autocuidado.",
+    "rating": 4.8,
+    "reviewCount": 73,
+    "stock": 31,
+    "isNew": false,
+    "isBestSeller": false,
+    "tags": ["set", "regalo", "spa", "relajación"],
+    "includes": [
+      "Sales de baño de lavanda y eucalipto (200g)",
+      "Vela aromática de geranio y sándalo (duración 25h)",
+      "Crema corporal nutritiva con manteca de karité (200ml)",
+      "Mascarilla facial iluminadora de arcilla rosa (50ml)"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608571423539-e951a50e3d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1608571423539-e951a50e3d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1608571423539-e951a50e3d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev13",
+        "user": "Teresa L.",
+        "rating": 5,
+        "date": "2023-11-05",
+        "comment": "Lo compré como regalo para mi hermana y quedó encantada. Todos los productos son de excelente calidad y la presentación es muy bonita. Perfecto para regalar.",
+        "avatar": "https://randomuser.me/api/portraits/women/13.jpg"
+      },
+      {
+        "id": "rev14",
+        "user": "Beatriz M.",
+        "rating": 4,
+        "date": "2023-10-15",
+        "comment": "La relación calidad-precio es muy buena. Los productos huelen delicioso y la vela aromática es mi favorita, crea un ambiente super relajante.",
+        "avatar": "https://randomuser.me/api/portraits/women/14.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sk003",
+    "name": "Mascarilla Detox de Arcilla Verde",
+    "category": "skincare",
+    "price": 32.99,
+    "discountPrice": null,
+    "description": "Mascarilla facial purificante con arcilla verde, té verde y zinc. Limpia profundamente los poros y reduce el exceso de grasa sin resecar la piel.",
+    "longDescription": "Esta potente mascarilla detox está formulada con arcilla verde natural, conocida por sus propiedades purificantes y absorbentes, que ayuda a eliminar impurezas y toxinas acumuladas en la piel. Enriquecida con extracto de té verde antioxidante, aceite de árbol de té purificante y gluconato de zinc para regular la producción de sebo, esta mascarilla limpia profundamente los poros, absorbe el exceso de grasa y ayuda a prevenir imperfecciones sin resecar la piel. A diferencia de otras mascarillas de arcilla, contiene ingredientes hidratantes como aloe vera y glicerina que mantienen el equilibrio de humedad de la piel. Ideal para pieles mixtas a grasas, así como para pieles con tendencia acneica.",
+    "rating": 4.5,
+    "reviewCount": 65,
+    "stock": 48,
+    "isNew": false,
+    "isBestSeller": false,
+    "tags": ["mascarilla", "arcilla", "purificante", "detox"],
+    "ingredients": "Aqua, Kaolin, Bentonite, Glycerin, Propanediol, Montmorillonite, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Zinc Gluconate, Melaleuca Alternifolia Leaf Oil, Panthenol, Xanthan Gum, Tocopherol, Phenoxyethanol, Ethylhexylglycerin, Limonene, Linalool, CI 77289",
+    "howToUse": "Aplicar una capa uniforme sobre el rostro limpio, evitando el contorno de ojos y labios. Dejar actuar 10-15 minutos, hasta que la mascarilla se seque parcialmente (no debe secarse completamente). Retirar con agua tibia usando movimientos circulares para un suave efecto exfoliante. Usar 1-2 veces por semana.",
+    "images": [
+      "https://images.unsplash.com/photo-1570194065650-d99fb4ee27a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1570194065650-d99fb4ee27a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1570194065650-d99fb4ee27a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    ],
+    "reviews": [
+      {
+        "id": "rev15",
+        "user": "Claudia H.",
+        "rating": 5,
+        "date": "2023-10-02",
+        "comment": "Esta mascarilla es increíble para mi piel mixta. Siento los poros más limpios y mi piel más equilibrada. No reseca como otras mascarillas de arcilla.",
+        "avatar": "https://randomuser.me/api/portraits/women/15.jpg"
+      },
+      {
+        "id": "rev16",
+        "user": "Silvia P.",
+        "rating": 4,
+        "date": "2023-09-18",
+        "comment": "La uso semanalmente y ha mejorado mucho la apariencia de mi piel. Las imperfecciones aparecen con menos frecuencia y mi piel luce más mate durante el día.",
+        "avatar": "https://randomuser.me/api/portraits/women/16.jpg"
+      }
+    ]
+  }
+] 
